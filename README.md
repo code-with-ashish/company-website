@@ -1,6 +1,7 @@
-# Software Development Company Website by iEquation TechLabs
+# iEquation Techlabs provides Software Development solutions. 
 
-iEquation TechLabs is a full-service software development company of engineers, designers, and developers. Mobile app development, IoT product and custom software solutions in India, Bengaluru, Hydrabad, Asia
+We are a full-service software development company of enthusiast working on mobile app development, IoT products and custom software solutions. 
+Game development and Music production. 
 
 ## File Structure
 
